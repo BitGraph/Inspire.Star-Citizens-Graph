@@ -9,6 +9,15 @@ relation:
 
 
 # Architecture
+## Entity Graph Database
+sch: https://www.google.com/search?q=star+citizen+entity+graph
+
+discuss:
+- https://www.reddit.com/r/starcitizen/comments/mo94lz/recently_server_meshingnetwork_development/
+
+article:
+- https://www.boredgamer.co.uk/2021/08/16/whats-happening-with-star-citizens-server-meshing/
+
 ## Dedicated Game Servers (DGS) Node
 sch: https://google.com/search?q=star+citizen+dgs+node
 
