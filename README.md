@@ -6,3 +6,10 @@ This is Exactly the Architecture & behavior we want, in UniSocial.net's Global G
 
 relation:
 - [Persistent Entity Streaming | How It Could Change Star Citizen](https://youtu.be/PrmAqPuyXrQ)
+
+
+# Architecture
+## Dedicated Game Servers (DGS) Node
+sch: https://google.com/search?q=star+citizen+dgs+node
+
+https://www.boredgamer.co.uk/2021/07/15/star-citizens-new-roadmap-update-focuses-on-server-meshing-missions/
